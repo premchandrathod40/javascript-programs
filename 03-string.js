@@ -31,3 +31,4 @@ console.log("============lastchar===============");
  console.log("after trim:",aftertrim);
  var trimlentgh=aftertrim.length;
  console.log("after trim:",trimlentgh);
+
